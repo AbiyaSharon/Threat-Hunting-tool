@@ -1,0 +1,8 @@
+OSQuery Analysis Data:
+Placeholder for OSQuery analysis data
+
+Wireshark Captured Packets:
+Placeholder for Wireshark analysis data
+
+Network analysis Data:
+Placeholder for Network analysis data
